@@ -94,10 +94,6 @@
       "last_updated": "2025-05-17T21:45:00Z",
       "last_updated_by": "System"
     },
-    "PCOperatorAgent": {
-      "purpose": "Executes system-level organization and optimization tasks via REST API.",
-      "autostart": true
-    },
     "RegistryDiscoveryAgent": {
       "purpose": "Registers and discovers available agents/services for dynamic self-discovery, hot-swapping, and registry health.",
       "functionality": "def register(self, agent_info): ...",
