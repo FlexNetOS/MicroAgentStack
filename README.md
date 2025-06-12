@@ -50,7 +50,7 @@ MicroAgentStack/
 ├── Other generator scripts...   # (e.g., inject\_fastapi\_metadata.py)
 └── README.md                    # (this file)
 
-````
+```
 
 ---
 
